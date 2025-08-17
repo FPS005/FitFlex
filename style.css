@@ -331,7 +331,7 @@ Sportswear-card:hover {
 }
 
 .image {
-  background: url(images/background.png);
+  background: url(background.png);
   width: 230px;
   height: 260px;
   border-radius: 10px;
@@ -490,3 +490,4 @@ footer {
   color: #f3f3f3;
   font: 1em sans-serif;
 }
+
